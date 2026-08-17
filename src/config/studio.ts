@@ -13,7 +13,7 @@ export const STUDIO_CONFIG: StudioInfo = {
     'Our mission is to push the boundaries of what is possible on Roblox — combining polished gameplay, striking visuals, and innovative mechanics to deliver experiences that keep players coming back.',
   founded: '2025',
   discordUrl: 'https://discord.gg/sCE4gpGshk',
-  email: 'contact@egogames.com',
+  email: 'NOTHING',
   social: {
     robloxGroup: 'https://www.roblox.com/communities/247123479/EGO#!/about',
     twitter: 'https://twitter.com/egogames',
